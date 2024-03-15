@@ -39,7 +39,7 @@ ID Yandex.Metrika(Яндекс.Метрика) можно задать как в
 ```code
 modules: [
     [
-      '@rkaliev/nuxtjs-yandex-metrika',
+      '@testorio69/nuxtjs-yandex-metrika',
       {
         ...
         id: 'XXXXXX',
