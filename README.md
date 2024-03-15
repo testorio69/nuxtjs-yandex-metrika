@@ -60,7 +60,7 @@ YM_ID=XXXXXXX
 ```code
 modules: [
     [
-      '@rkaliev/nuxtjs-yandex-metrika',
+      '@testorio69/nuxtjs-yandex-metrika',
       {
         ...
         debug: true,
