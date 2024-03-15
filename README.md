@@ -3,7 +3,7 @@
 ## Установка и настройка модуля/плагина
 
 ```code
-npm i @rkaliev/nuxtjs-yandex-metrika
+npm i @testorio69/nuxtjs-yandex-metrika
 ```
 
 Необходимо в nuxt.config.js в секции modules добавить:
@@ -11,7 +11,7 @@ npm i @rkaliev/nuxtjs-yandex-metrika
 ```code
 modules: [
     [
-      '@rkaliev/nuxtjs-yandex-metrika',
+      '@testorio69/nuxtjs-yandex-metrika',
       {
         id: 'XXXXXX',
         webvisor: boolean,
